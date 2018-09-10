@@ -3,5 +3,5 @@ This repository will contain the basics of implementation of classification and 
 
 I have attached here both classification and regression dataset - Both test and train in two separate folders.
 
-Please note that these are basic level of analysis in python using simple machine learning lib. So it will be useful for beginners to start practising with data science coding. 
+Please note that these are basic level of analysis in python using simple machine learning libs. So it will be useful for beginners to start practising with data science coding. 
 
